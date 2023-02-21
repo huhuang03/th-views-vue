@@ -1,5 +1,5 @@
 build/
 out/
 dist/
-node_moduels/
+node_modules/
 .idea/

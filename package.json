@@ -2,5 +2,12 @@
   "name": "th-views-vue",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "element-plus": "^2.2.32",
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
 }
